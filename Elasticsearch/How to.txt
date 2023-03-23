@@ -1,0 +1,8 @@
+Start:
+docker-compose up -d
+
+Stop:
+docker-compose down -v
+
+More Info:
+https://www.elastic.co/guide/en/elasticsearch/reference/8.6/docker.html#docker-compose-file
